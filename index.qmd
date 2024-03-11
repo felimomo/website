@@ -1,6 +1,17 @@
 ---
-title: "Daniela Rodriguez-Chavez"
-subtitle: "PhD Candidate in the Environmental, Policy, & Management program at UC Berkeley"
+title: Felipe Montealegre-Mora
+subtitle: 'Postdoc at Carl Boettiger''s lab, UC Berkeley'
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.1
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
 ---
 
 Welcome to my site!

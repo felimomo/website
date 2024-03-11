@@ -1,9 +1,20 @@
 ---
-title: "About"
+title: About
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.1
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
 ---
 
 About this site
 
-```{r}
+```{python}
 1 + 1
 ```
