@@ -1,8 +1,15 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "gschool.html",
+    "href": "gschool.html",
+    "title": "Grad School",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
@@ -11,6 +18,13 @@
     "href": "index.html",
     "title": "Daniela Rodriguez-Chavez",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 \n\n[1] 2\n\n\nWant to also get started creating your own website?\n\nFirst create a quarto website\nCreate a git repo\nFollow this: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#importing-a-git-repository-with-the-command-line"
+    "text": "Welcome to my site!\n\n1 + 1 \n\n[1] 2\n\n\nWant to also get started creating your own website?\n\nFirst create a quarto website\nCreate a git repo\nFollow this: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#importing-a-git-repository-with-the-command-line"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
