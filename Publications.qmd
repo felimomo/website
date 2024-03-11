@@ -1,5 +1,16 @@
 ---
-title: "Publications"
+title: Publications
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.1
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
 ---
 
 About this site
@@ -7,3 +18,4 @@ About this site
 ```{r}
 1 + 1
 ```
+

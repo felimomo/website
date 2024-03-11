@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - publications.qmd
-      - href: gschool.qmd
-        text: Grad School
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
 
 format:
   html:
