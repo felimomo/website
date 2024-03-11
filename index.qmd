@@ -1,6 +1,6 @@
 ---
 title: "Daniela Rodriguez-Chavez"
-subtitle: "PhD Candidate at the Environmental, Policy, & Managemet at UC Berkeley"
+subtitle: "PhD Candidate in the Environmental, Policy, & Management program at UC Berkeley"
 ---
 
 This is a Quarto website.
