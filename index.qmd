@@ -1,5 +1,6 @@
 ---
-title: "git-website"
+title: "Daniela Rodriguez-Chavez"
+subtitle: "PhD Candidate at the Environmental, Policy, & Managemet at UC Berkeley"
 ---
 
 This is a Quarto website.
