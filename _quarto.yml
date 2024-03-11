@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
+      - href: gschool.qmd
+        text: Grad School
 
 format:
   html:
