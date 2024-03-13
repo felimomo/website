@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Felipe Montealegre-Mora",
+    "section": "",
+    "text": "Welcome to my site!\n\n1 + 1 \n\n2\n\n\nWant to also get started creating your own website?\n\nFirst create a quarto website\nCreate a git repo\nFollow this: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#importing-a-git-repository-with-the-command-line"
+  },
+  {
+    "objectID": "gschool.html",
+    "href": "gschool.html",
+    "title": "Grad School",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n2"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
